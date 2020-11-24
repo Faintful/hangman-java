@@ -1,3 +1,5 @@
+package org.faint.hangman;
+
 import java.util.Random;
 
 public class WordBank {

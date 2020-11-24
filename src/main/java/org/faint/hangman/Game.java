@@ -1,4 +1,4 @@
-import java.util.Random;
+package org.faint.hangman;
 
 class Game {
     public static final int MAX_TRIES = 7;

@@ -1,4 +1,4 @@
-import java.util.Random;
+package org.faint.hangman;
 
 public class Hangman {
 

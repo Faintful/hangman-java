@@ -1,3 +1,5 @@
+package org.faint.hangman;
+
 import java.util.Scanner;
 
 class Prompter {
